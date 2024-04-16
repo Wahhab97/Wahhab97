@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Ward Abdel Wahhab</h1>
 <h3 align="center">Frontend Developer with a lot of Curiosity</h3>
 
-- 🔭 Currently working @<a href="https://fintesa.co">Fintesa Inc.</a>. Open to collaboration on interesting projects.
+- 🔭 Open to collaboration on interesting projects.
 - 🔭 Recently finished Upskilling Web development courses @[HTU](https://htu.edu.jo/)
 
 <h3 align="left">Connect with me:</h3>
