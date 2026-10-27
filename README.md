@@ -1,25 +1,24 @@
 # Hi, I'm Ward Abdel Wahhab 👋
 
-### Software Engineer • React Native • React
+### Software Engineer · React Native · React
 
-I'm a software engineer with **3.5 years of professional experience** building mobile and web applications.
+Software Engineer with **3.5 years of professional experience** building mobile and web applications.
 
-My day-to-day work is focused on React Native and React, while I continuously invest in learning software engineering beyond frontend development. I'm particularly interested in building reliable software and expanding my knowledge across different areas of computer science.
+My work focuses on building production applications with React Native and React. I'm interested in software architecture, system design, and understanding the engineering principles behind reliable, maintainable software.
 
 ## Tech Stack
 
-- React
-- React Native
-- TypeScript
-- Redux
-- Zustand
+- **Languages:** JavaScript, TypeScript
+- **Mobile:** React Native, Expo
+- **Web:** React
+- **State Management:** Redux, Zustand
 
 ## Currently
 
-- Building production mobile applications
-- Exploring modern software engineering practices
-- Continuously learning through books, courses, and hands-on projects
+- Building and shipping production mobile applications
+- Exploring software architecture and backend development
+- Deepening my computer science fundamentals through study and hands-on projects
 
 ## Connect
 
-- LinkedIn: [https://www.linkedin.com/in/ward-wahhab/](https://www.linkedin.com/in/ward-wahhab/)
+- [LinkedIn](https://www.linkedin.com/in/ward-wahhab/)
